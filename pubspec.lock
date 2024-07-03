@@ -78,6 +78,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_floating_bottom_bar:
+    dependency: "direct main"
+    description:
+      name: flutter_floating_bottom_bar
+      sha256: e131b970405b46d678fef49f791e4a5332b06e48fe9d41d88cd91d0ab6c52c4a
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.2.0"
   flutter_lints:
     dependency: "direct dev"
     description:
@@ -88,6 +96,11 @@ packages:
     version: "3.0.2"
   flutter_test:
     dependency: "direct dev"
+    description: flutter
+    source: sdk
+    version: "0.0.0"
+  flutter_web_plugins:
+    dependency: transitive
     description: flutter
     source: sdk
     version: "0.0.0"
@@ -272,6 +285,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.11.1"
+  stories_for_flutter:
+    dependency: "direct main"
+    description:
+      name: stories_for_flutter
+      sha256: "42a5cb2ea2a0ddbac2f30f80d913fd01309702748f1e508a4595ae8fac09a011"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.2.1"
   stream_channel:
     dependency: transitive
     description:
